@@ -1,3 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine(“Buen día”);
+﻿//Ejercicio 1
+Console.WriteLine("Hola Mundo");
+Console.WriteLine("Presione cualquier tecla para salir");
+
